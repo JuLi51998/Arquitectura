@@ -1,0 +1,6 @@
+.container {display: flex; justify-content: center; align-items: center; margin-top: 5rem;}
+.container > div > div:nth-child(1) {display: block;}
+.container > div > div {display: flex; justify-content: center; align-items: center;}
+.enviar {width: 200px; background-color: cornflowerblue; color: white; height: 40px; margin-top: 1rem; border: 0px; border-radius: 5px;}
+label {color: brown;}
+input {width: 100%;}
